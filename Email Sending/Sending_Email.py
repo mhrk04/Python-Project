@@ -1,5 +1,4 @@
 # import library
-from cgitb import html
 from email.message import EmailMessage
 from app_pass import password
 import ssl
